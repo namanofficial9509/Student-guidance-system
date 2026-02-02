@@ -1,0 +1,7 @@
+{
+  "name": "Student Hub AI - Professional Career Ecosystem",
+  "description": "A comprehensive student success platform featuring AI-driven career navigation, a professional portfolio builder, community engagement, and real-time voice assistance powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
